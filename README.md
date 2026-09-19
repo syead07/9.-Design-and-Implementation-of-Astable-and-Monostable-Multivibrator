@@ -73,19 +73,14 @@ RA=7.2KΩ, RB= 3.6KΩ
 4.	Observe the output waveform and measure the pulse duration.
 5.	Theoretically calculate the pulse duration as T=1.1 RAC
 
-
-
   **CIRCUIT DIAGRAM**
-
-
   **MODEL GRAPH:**
-
-
-  **TABULATION:**
- 
-
-
-
+ **TABULATION:**
+ <img width="1044" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e74f1ad-969a-4229-a009-ff89e12ddd46" />
+ <img width="1051" height="1600" alt="image" src="https://github.com/user-attachments/assets/64771a31-f17e-49e0-b3c4-a412c7c8444a" />
+<img width="1130" height="1600" alt="image" src="https://github.com/user-attachments/assets/068f9363-29e1-4814-a203-c972bfb77e94" />
+<img width="914" height="1600" alt="image" src="https://github.com/user-attachments/assets/a28040e1-bb2c-4dbc-aac1-07b742fe4b38" />
+<img width="1130" height="1600" alt="image" src="https://github.com/user-attachments/assets/f519270a-66a8-4fbc-8973-faf79fbf07dc" />
 
 **RESULT:**
 Thus the Astable and Monostable multivibrator is designed and tested using 555 timer IC
